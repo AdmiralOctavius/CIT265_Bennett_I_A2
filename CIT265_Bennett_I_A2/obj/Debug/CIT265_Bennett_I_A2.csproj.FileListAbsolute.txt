@@ -1,0 +1,7 @@
+c:\users\bennett253\source\repos\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\bin\Debug\CIT265_Bennett_I_A2.exe.config
+c:\users\bennett253\source\repos\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\bin\Debug\CIT265_Bennett_I_A2.exe
+c:\users\bennett253\source\repos\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\bin\Debug\CIT265_Bennett_I_A2.pdb
+c:\users\bennett253\source\repos\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\obj\Debug\CIT265_Bennett_I_A2.csprojAssemblyReference.cache
+c:\users\bennett253\source\repos\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\obj\Debug\CIT265_Bennett_I_A2.csproj.CoreCompileInputs.cache
+c:\users\bennett253\source\repos\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\obj\Debug\CIT265_Bennett_I_A2.exe
+c:\users\bennett253\source\repos\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\obj\Debug\CIT265_Bennett_I_A2.pdb
