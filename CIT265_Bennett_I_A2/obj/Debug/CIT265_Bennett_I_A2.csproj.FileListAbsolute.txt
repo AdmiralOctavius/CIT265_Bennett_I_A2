@@ -5,3 +5,10 @@ c:\users\bennett253\source\repos\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\obj\Deb
 c:\users\bennett253\source\repos\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\obj\Debug\CIT265_Bennett_I_A2.csproj.CoreCompileInputs.cache
 c:\users\bennett253\source\repos\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\obj\Debug\CIT265_Bennett_I_A2.exe
 c:\users\bennett253\source\repos\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\obj\Debug\CIT265_Bennett_I_A2.pdb
+C:\Users\Isaac\Documents\GitHub\Csharp2018\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\bin\Debug\CIT265_Bennett_I_A2.exe.config
+C:\Users\Isaac\Documents\GitHub\Csharp2018\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\bin\Debug\CIT265_Bennett_I_A2.exe
+C:\Users\Isaac\Documents\GitHub\Csharp2018\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\bin\Debug\CIT265_Bennett_I_A2.pdb
+C:\Users\Isaac\Documents\GitHub\Csharp2018\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\obj\Debug\CIT265_Bennett_I_A2.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Documents\GitHub\Csharp2018\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\obj\Debug\CIT265_Bennett_I_A2.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\GitHub\Csharp2018\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\obj\Debug\CIT265_Bennett_I_A2.exe
+C:\Users\Isaac\Documents\GitHub\Csharp2018\CIT265_Bennett_I_A2\CIT265_Bennett_I_A2\obj\Debug\CIT265_Bennett_I_A2.pdb

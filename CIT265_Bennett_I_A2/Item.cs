@@ -15,17 +15,17 @@ namespace CIT265_Bennett_I_A2
         public double Price
         {
             get { return price; }
-            set { price = value; }//We want to allow the item to be changed after creation.
+            set { price = value; }
         }
         public string Name
         {
             get { return name; }
-            set { name = value; }//We want to allow the item to be changed after creation.
+            set { name = value; }
         }
         public int Quantity
         {
             get { return quantity; }
-            set { quantity = value; }//We want to allow the item to be changed after creation.
+            set { quantity = value; }
         }
 
     }
